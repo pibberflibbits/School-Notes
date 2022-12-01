@@ -5,3 +5,5 @@
 	Chemistry
 
 	History
+
+	Statistics
