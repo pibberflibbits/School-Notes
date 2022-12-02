@@ -7,4 +7,7 @@ Null Hypothesis, H0: This is the claim that there is no effect or no difference 
 
 Alternative Hypothesis, Ha: This is the claim that we are trying to find significant Statistical evidence for. (This will always use inequality signs or not equal signs)
 
+Statistical Significance: When reults as extreme as the observed sample statistic are unlikely to occur by random change alone 
+						  (assuming that null hypothesis is true), we say the sample results are Statisticaly significant.
+
 
