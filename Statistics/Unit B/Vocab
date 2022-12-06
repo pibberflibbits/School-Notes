@@ -1,13 +1,46 @@
-VOCAB!
----------------------------------------
+VOCAB!---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Statistical Tests:
+Use Data from a sample to assess a claim about a population
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Statistical Tests: Use Data from a sample to assess a claim about a population
+---------------------------------------------------------------------------------------------------------------------------------------------
+Null Hypothesis, H0:
+This is the claim that there is no effect or no difference in the Statistical data (This will always us an "=" sign)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Null Hypothesis, H0: This is the claim that there is no effect or no difference in the Statistical data (This will always us an "=" sign)
+---------------------------------------------------------------------------------------------------------------------------------------------
+Alternative Hypothesis, Ha:
+This is the claim that we are trying to find significant Statistical evidence for. (This will always use inequality signs or not equal signs)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Alternative Hypothesis, Ha: This is the claim that we are trying to find significant Statistical evidence for. (This will always use inequality signs or not equal signs)
+---------------------------------------------------------------------------------------------------------------------------------------------
+Statistical Significance:
+When reults as extreme as the observed sample statistic are unlikely to occur by random change alone 
+(assuming that null hypothesis is true), we say the sample results are Statisticaly significant.
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Statistical Significance: When reults as extreme as the observed sample statistic are unlikely to occur by random change alone 
-						  (assuming that null hypothesis is true), we say the sample results are Statisticaly significant.
+---------------------------------------------------------------------------------------------------------------------------------------------
+P-value:
+The p-value of the sample data in a statistical test is the probability, when the null hypothesis is true, of obtaining a sample as extreme 
+(or more extreme than) the observed value
+
+The smaller the p-value, the stronger the statistical evidence is against the null hypothesis and in favor of the alternative
+
+A formal way to measure the strength of evidence a smaple provides against the null hypothesis and in support of the alternative hypothesis
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Randomization Distribution:
+
+Randomization Distribution simulate many samples using a random process that matches the way the original data was collected and that assumes
+the null hypothesis is true. Collect the values of a sample statistic for each sample to create a Randomization. 
+
+Assess the Significance of the original sample by determining where its sample statistic lies in the randomization distribution.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
