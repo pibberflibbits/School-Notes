@@ -63,3 +63,26 @@ Bootstrap is for when you need to know if there is a difference or if something 
 Randomization is for when you want to know how strong of a difference there is.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+Normal Distribution: A distribution that is both symmetric and bell-shaped
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Normal Density Curve: A normal distribution follows a bell-shaped curve.
+We use the two parameters mena, u, and standard deviation, o, to distinguish
+one normal curve from another. We write N(u, o) to specify that a distribution is normal (N)
+with some mean (u) and a standard deviation.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Standard Normal: The standard normal has  amean zero and a standard deviation of one
+to convert any X~N(u, o) to Z~N(0 , 1) we standardize values with the z-score.
+Z = (x-u)/o
+
+to convert the other way use:
+
+X = u + Zo
+:)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
