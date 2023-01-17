@@ -85,4 +85,8 @@ X = u + Zo
 :)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+Central Limit Theorem: 
 
+For samples with a sufficiently large sample size, the distribution of 
+sample statistics for a mean or a proportion is normally distributed and is centered at the value
+of the population parameter.
