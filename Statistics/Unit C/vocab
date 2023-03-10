@@ -1,1 +1,45 @@
-jdidw?
+Standard Error of Sample Means:
+	The Larger the sample size (n) the smaller the Standard Error
+
+Central Limit Theorem for Sample Means:
+	Sample size >=30 is sufficiently large
+	If the smaple is 30 or bigger than the T-distribution is going to work even if it is skewed
+
+	center: The mean is equal to the population mean !!NOT XBAR!!
+
+	spread: the standard error is estimated using SE = S(or sigma)/sqrt(n) where s is the S.dev of a sample.
+
+	shape: The standardized sample means approximately follow a t-distribution with n-1 degrees of freedom.
+
+	Even if the sample size is less than 30, a T-distribution can still be used if it is approximately normal.
+
+Central Limit Theorem for differences in sample means:
+	SE = sqrt((s1^2 / n1) + (s2^2 / n2))
+
+	center: the mean is equal to the differences in population means
+
+	spread: The standard error is estimated using the formula above.
+
+	shape: The standard differences in the sample means follow a t-distribution with degrees of
+	freedom approximately equal to the smaller of n1 - 1 and n2 - 1.
+
+	Even if the sample size is less than 30, a T-distribution can still be used if it is approximately normal.
+
+
+Formula for finding a 95% confidence intreval:
+	Sample Stat +- Z* = CI
+	Sample Stat += t* = CI
+
+Confidence Intreval for a single mean:
+	XBAR +- t* * (s/sqrt(n))
+
+Margin of Error for a Single Mean:
+	ME = t* (s/srt(n))
+
+Determination of Sample Size to Estimate A Mean:
+	n = (z* * ~o / ME)^2
+
+T-Test for a Single Mean:
+	t = (BAR-Mewnot) / (s/sqrt(n))
+
+If the graph is not heavily skewed and there are no major outliers, you can use te t-distribution.
