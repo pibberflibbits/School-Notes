@@ -28,7 +28,7 @@ Central Limit Theorem for differences in sample means:
 
 Formula for finding a 95% confidence intreval:
 	Sample Stat +- Z* = CI
-	Sample Stat += t* = CI
+	Sample Stat +- t* = CI
 
 Confidence Intreval for a single mean:
 	XBAR +- t* * (s/sqrt(n))
@@ -40,6 +40,20 @@ Determination of Sample Size to Estimate A Mean:
 	n = (z* * ~o / ME)^2
 
 T-Test for a Single Mean:
-	t = (BAR-Mewnot) / (s/sqrt(n))
+	t = (XBAR-Mewnot) / (s/sqrt(n))
 
 If the graph is not heavily skewed and there are no major outliers, you can use te t-distribution.
+
+CI intreval for a single mean:
+	(XBAR1 - XBAR2)+- t* ((s1^2/n1) + (s2^2/n2))
+
+Two-sample t-test for a difference in means:
+	t = (XBAR1 - XBAR2)/sqrt(((s1^2)/n1) + ((s2^2)/n2)))
+
+Inference for a difference in means with Paired Data:
+	
+	CI for the difference in means:
+		XBARd + t* sd/sqrt(nd)
+	
+	T-test statistics:
+		t = XBARd / sd / sqrt(nd)
